@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aiyshu
 - 👀 I’m interested in Front end web development 
 - 💻 I'm currently working on Automation Testing using selenium
-- 🌱 I’m currently learning Full Stack Web Development
+- 🌱 Technology Skills: JAVA, HTML, CSS, JavaScript, Selenium, BDD Cucumber, etc,.
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me aiyshwariya2127@gmail.com
 
